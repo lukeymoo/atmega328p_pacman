@@ -8,4 +8,4 @@ Pins 0, 1, 2, 3 on PORTC are used for input
 
 I'm using a 128x64 OLED display with a display library I made (read: crappy library)
 
-<img src="IMG_1301.JPG" width="300">
+<img src="IMG_1301.JPG" width="400">
